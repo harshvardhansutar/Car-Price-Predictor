@@ -41,7 +41,7 @@ Car-Price-Prediction/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repo
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/harshvardhan-sutar/car-price-prediction.git
 cd car-price-prediction
 
 2️⃣ Create virtual environment & install dependencies
@@ -100,3 +100,6 @@ Harshvardhan Sutar
 ]
 🔗 LinkedIn
  | GitHub
+
+ <video controls src="Timeline 1.mov" title="Demo Video"></video>
+ ![alt text](image.png)
