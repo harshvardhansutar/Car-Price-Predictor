@@ -96,7 +96,7 @@ Deploy on Heroku / Render / AWS / GCP.
 👨‍💻 Author
 
 Harshvardhan Sutar
-📧 [your-email@example.com
+📧 [your-harshvardhansutar@gmail.com
 ]
 🔗 LinkedIn
  | GitHub
